@@ -1,6 +1,6 @@
 ### First Proect Build :
    #### Gcc Version Kontrol :
-      > gcc -v
+      >gcc -v
 
    #### Gcc Build Proect :
-      > gcc hello.c -o HelloWord 
+      >gcc hello.c -o HelloWord 
