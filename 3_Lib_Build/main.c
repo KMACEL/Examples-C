@@ -3,6 +3,6 @@
 int main(){
    initscr();
    getch();
-   cndwin();
-   printf();
+   printf("Hello Ncurses");
+   return 0;
 }
