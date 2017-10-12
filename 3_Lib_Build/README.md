@@ -2,6 +2,9 @@
 
  >gcc main.c -o NcursesLibBuild -I /usr/include -l ncurses
 
+OR
+
+ >gcc main.c -o BuildLib -I /usr/local/include/ -l ncurses
 
 #### I
 This is the command that puts the folder path of the libraries that will be included in the compilation into the project. After this command, the folder path is given.
